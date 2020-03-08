@@ -5,3 +5,4 @@ My solutions to some problems posted in the [Beginner Projects Repo](https://git
 Currently, solutions for the following problems have been posted:
 
 - Rock, Paper, Scissors
+- 99 Bottles
