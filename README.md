@@ -6,3 +6,5 @@ Currently, solutions for the following problems have been posted:
 
 - Rock, Paper, Scissors
 - 99 Bottles
+- Menu Calculator
+- What's my number?
