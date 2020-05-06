@@ -9,3 +9,4 @@ Currently, solutions for the following problems have been posted:
 - Menu Calculator
 - What's my number?
 - Countdown clock
+- Armstrong number
