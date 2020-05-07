@@ -11,3 +11,4 @@ Currently, solutions for the following problems have been posted:
 - Countdown clock
 - Armstrong number
 - Fibonacci Number
+- Hangman
