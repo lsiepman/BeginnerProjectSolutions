@@ -12,3 +12,4 @@ Currently, solutions for the following problems have been posted:
 - Armstrong number
 - Fibonacci Number
 - Hangman
+- Multiplication table
