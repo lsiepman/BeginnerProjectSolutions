@@ -13,3 +13,4 @@ Currently, solutions for the following problems have been posted:
 - Fibonacci Number
 - Hangman
 - Multiplication table
+- Random Wikipedia Article
